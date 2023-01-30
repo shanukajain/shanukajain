@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanukajain" alt="shanukajain" /></a> </p>
 
+- 🌱 I’m currently learning **Full-stack development**
+
+- 👨‍💻 All of my projects are available at [https://shanukajain.github.io/](https://shanukajain.github.io/)
+
+- 💬 Ask me about **node,express,mongoDb,html,css**
+
+- 📫 How to reach me **jain.shanuka@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shanukajain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shanukajain/" height="30" width="40" /></a>
