@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jain.shanuka@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QVLRLXezrsupO0q7qGwoqpo2n4bKZHcl/view?usp=share_link](https://drive.google.com/file/d/1QVLRLXezrsupO0q7qGwoqpo2n4bKZHcl/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QVLRLXezrsupO0q7qGwoqpo2n4bKZHcl/view?usp=share_link]<a>(https://drive.google.com/file/d/1QVLRLXezrsupO0q7qGwoqpo2n4bKZHcl/view?usp=share_link)<p>Resume<p></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
