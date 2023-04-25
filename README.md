@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shanuka Jain</h1>
-<h3 align="center">A Masai School Graduate
-A budding Full-Stack Web Developer  and a Competitive Programming Enthusiast,
-who is obsessed with the idea of improving himself and wants a platform to grow and excel.</h3>
+<p align="center">
+  <em>
+    Hi, I'm Shanuka Jain, a Masai School Graduate <br>
+    A budding <b>Full-Stack Web Developer</b>&nbspand a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> and 
+    <b>excel</b>.
+  </em>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shanukajain&label=Profile%20views&color=0e75b6&style=flat" alt="shanukajain" /> </p>
 
